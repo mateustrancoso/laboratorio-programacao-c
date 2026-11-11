@@ -1,1 +1,1 @@
-# laboratorio-programacao-c
+# Laboratório de Programacao em C
